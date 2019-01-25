@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VS_Projects",
+    "\\VS_Projects\\IPlugExamples",
+    "\\VS_Projects\\IPlugExamples\\MyFirstPlugin",
+    "\\VS_Projects\\IPlugExamples\\MyFirstPlugin\\app_wrapper",
+    "\\VS_Projects\\IPlugExamples\\MyFirstPlugin\\resources",
+    "\\VS_Projects\\IPlugExamples\\MyFirstPlugin\\resources\\img",
+    "\\VS_Projects\\WDL",
+    "\\VS_Projects\\WDL\\IPlug"
+  ],
+  "SelectedNode": "\\VS_Projects\\IPlugExamples\\MyFirstPlugin\\IPlugEffect.cpp",
+  "PreviewInSolutionExplorer": false
+}
