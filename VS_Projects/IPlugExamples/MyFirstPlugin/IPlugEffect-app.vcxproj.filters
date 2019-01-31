@@ -79,4 +79,7 @@
   <ItemGroup>
     <ResourceCompile Include="IPlugEffect.rc" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
 </Project>
